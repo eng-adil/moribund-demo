@@ -1,0 +1,24 @@
+Moribund - web demo (Ashwick and the Weeping Graves)
+Code, narrative and design: the Moribund project. Built with Godot Engine 4.7 (MIT, godotengine.org).
+This demo contains no Diablo / Diablo II material: every image and sound below is open-licensed.
+
+Art, animation, tilesets, maps, UI art, music, base sound effects
+  Flare RPG - flare-game (github.com/flareteam/flare-game), CC-BY-SA 3.0 (art/audio), GPL (data).
+  Clint Bellanger, Justin Jacobs, Brandon Morris, Lori Angela Nagel, Igor Paliychuk, Thane Brimhall,
+  Matthew Krohn, Daniel Eck and the Flare community. Per-file attribution in the flare-game repository.
+
+Props
+  Fantasy Props MegaKit (Standard) - Quaternius, opengameart.org/content/fantasy-props-megakit, CC0.
+  Set-pieces, shop signs, tornado VFX and other props rendered in-house by PropRenderer.gd (own work).
+
+Sound effects
+  RPG Audio, Impact Sounds, Interface Sounds - Kenney (kenney.nl), CC0
+  80 CC0 RPG SFX, 100 CC0 SFX - rubberduck (OpenGameArt), CC0
+  Fantasy Sound Effects Library, Horror Sound Effects Library - Little Robot Sound Factory (OpenGameArt), CC-BY 3.0
+  Magic SFX Preview Pack (OpenGameArt "magic-sfx-sample"), CC-BY 3.0
+  Spell Sounds Starter Pack - artisticdude (OpenGameArt), CC-BY-SA 3.0
+  Monster SFX Pack (OpenGameArt "monster-sound-effects-pack"), CC0
+  Old Man Cough - AntumDeluge (OpenGameArt), CC0
+  Sick Noises - frosty ham (OpenGameArt), CC0
+
+Generated at runtime: voice blips, whispers, blood decals, light textures, fog/orb/post shaders.
